@@ -112,7 +112,7 @@ body {
 }
 
 .image-prof img {
-    min-width: 170px;
+    max-height: 170px;
     max-height: 350px;
     min-height: 300px;
     opacity: 60%;
